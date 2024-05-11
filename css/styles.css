@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box; 
+}
+
+:root {
+    --dark-blue: rgb(1, 70, 111);
+    --grey: rgb(212, 217, 223);
+    --light-black: rgb(44, 48, 49);
+    --brown: rgb(73, 46, 37);
+    --light-brown: rgb(148, 139, 132);
+    --white: rgb(255, 255, 255);
+    --lighter-blue: rgb(90, 134, 161);
+    --lightest-blue: rgb(170, 202, 223);
+
+}
