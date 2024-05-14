@@ -1,0 +1,26 @@
+ul.nav-bar {
+    position: static;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 0;
+}
+
+.nav-bar > li {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    min-width: fit-content;
+}
+
+.nav-bar a {
+    color: var(--dark-blue);
+}
+
+.middle-nav-item {
+    font-size: 4rem;
+    padding-inline: 200px;
+
+}
+.nav-item {
+    font-size: 2rem;
+}
